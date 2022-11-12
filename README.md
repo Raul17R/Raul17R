@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on my solo project HOME-UP<br>🌱 I’m currently learning about C# and working on CS50<br>💬 Ask me about my App HOME-UP and my experience at Prime Digital Academy<br>
 
 
